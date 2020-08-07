@@ -107,7 +107,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in.m3u8
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
 #EXTINF:-0 , Peace TV
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/media_w84682331_2358.ts
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
