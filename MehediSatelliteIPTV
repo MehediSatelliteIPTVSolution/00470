@@ -122,7 +122,7 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.",Zee TV HD
-http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
+https://z5ams.akamaized.net/zeetvhd/index.m3u8?hdnts=st=1596778011~exp=1596781011~acl=/*~hmac=1116a0dec4dca96e519252f9a0fe6675f06e480dbe2446bbe3f3b5f14ed15b4e
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="HINDI ENT.",Sony TV HD
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
