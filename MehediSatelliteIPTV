@@ -281,10 +281,10 @@ https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA CINEMA",Zee Bangla Cinema
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 
-#EXTINF:-0 group-title="Sports"Sony Max
+#EXTINF:-0 group-title="HINDI MOVIES"Sony Max
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/2020/08/07/04/27/14-05000.ts
 
-#EXTINF:-0 group-title="Sports"Sony Max HD
+#EXTINF:-0 group-title="HINDI MOVIES"Sony Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
