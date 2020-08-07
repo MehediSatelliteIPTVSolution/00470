@@ -285,7 +285,7 @@ http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/2020/08/07/04/27/14-05000.ts
 
 #EXTINF:-0 group-title="HINDI MOVIES"Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in.m3u8
+http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES",Zee Action
 https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1596762301~exp=1596765301~acl=/*~hmac=4660a70a22309311cd1532c83e1f45c8f6360d6bed1620acb08f8b1cfb802425
