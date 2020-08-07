@@ -230,6 +230,9 @@ http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
+#EXTINE:-1 ,9XM
+https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8?hdnts=st=1596776926~exp=1596779926~acl=/*~hmac=17cb64f005fb51c42aa02aa893998cb7cae3d1fce728b313ad3e3658f9695a67
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 
@@ -238,6 +241,8 @@ https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
 #EXTINE:-1 ,Zing
 https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1596730047~exp=1596733047~acl=/*~hmac=cc99975ebf5a6c5bfa31a67f4333c4889a04e59fd4a59a3ede2614fb0d2f867f
+
+
 
 
 
