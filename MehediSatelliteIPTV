@@ -335,6 +335,9 @@ http://51.52.156.22:8888/http/009
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH ENT.",Sony Pix
 http://103.205.133.19/hls/sonypix.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH ENT.",Sony Pix
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
