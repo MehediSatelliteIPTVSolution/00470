@@ -40,6 +40,9 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
@@ -493,7 +496,7 @@ https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
@@ -506,6 +509,7 @@ http://45.249.187.238:8081/hls/hdmi2.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
