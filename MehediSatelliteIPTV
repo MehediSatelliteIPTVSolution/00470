@@ -382,6 +382,9 @@ https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
@@ -389,6 +392,9 @@ http://45.249.187.238:8081/hls/new12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUSIC",Zoom
 http://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUSIC",Zoom
+http://103.135.208.14/live/ibox/bd/14.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
