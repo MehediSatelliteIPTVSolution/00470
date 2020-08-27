@@ -417,6 +417,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="MUSIC",MTV Beats
+http://103.135.208.14/live/ibox/bd/131.m3u8
+
 #EXTINF:0  tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="MUSIC",Zee ETC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 
