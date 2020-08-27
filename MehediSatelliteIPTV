@@ -17,7 +17,7 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
-http://45.249.187.238:8081/hls/live7.m3u8
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
@@ -62,7 +62,7 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
-https://itpolly.iptv.digijadoo.net/live/channel_9/playlist.m3u8
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
