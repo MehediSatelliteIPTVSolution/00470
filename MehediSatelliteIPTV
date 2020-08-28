@@ -53,7 +53,7 @@ https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 http://45.249.187.238:8081/hls/live6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV HD
-http://103.135.208.14/live/ibox/bd/30.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA",MOHONA TV HD
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
@@ -227,7 +227,7 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
@@ -239,7 +239,7 @@ http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
 
 
 #EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
-http://87.117.234.107:1935//live//STARGOLDSELECTFHD//playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
@@ -554,7 +554,7 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
-http://103.135.208.14/live/ibox/bd/75.m3u8
+
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
 http://45.249.187.238:8081/hls/hdmi4.m3u8
