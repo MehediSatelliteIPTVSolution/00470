@@ -298,7 +298,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH MOVIES",Romedy Now
-
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
@@ -557,7 +557,7 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
-
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
 http://45.249.187.238:8081/hls/hdmi4.m3u8
