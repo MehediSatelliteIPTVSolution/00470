@@ -381,7 +381,7 @@ http://103.135.208.14/live/ibox/bd/62.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="MUSIC",ATN MUSIC TV
-
+http://172.20.1.1:8081/live/atnmusic/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
