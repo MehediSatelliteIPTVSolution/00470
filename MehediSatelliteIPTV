@@ -353,7 +353,7 @@ http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="ENGLISH ENT.",& Prive HD
-http://oqab.life:31000/ropon@25/ropon25/105
+https://z5ams.akamaized.net/andprivehd/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="ENGLISH ENT.",& Flix HD 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
@@ -383,6 +383,9 @@ http://103.135.208.14/live/ibox/bd/62.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="MUSIC",ATN MUSIC TV
 http://172.20.1.1:8081/live/atnmusic/chunks.m3u8
 
+EXTINF:-1 group-title="MUSIC",Dhoom
+https://itpolly.iptv.digijadoo.net/live/dhoom_music/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
@@ -407,7 +410,7 @@ http://103.135.208.14/live/ibox/bd/14.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="8XM" tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png" group-title="MUSIC",8XM
+#EXTINF:-1 tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png" group-title="MUSIC",8XM
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
