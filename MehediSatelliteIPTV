@@ -649,16 +649,13 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD
 http://103.84.253.5/live/fastfeed1004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-titel="Sports",Sony Ten 1 HD (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-titel="Sports",Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-titel="Sports",Sony Ten 1 HD (2)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD (3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://otv.ftpbd.net/streams/105/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD (4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1 HD
 http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD (1)
