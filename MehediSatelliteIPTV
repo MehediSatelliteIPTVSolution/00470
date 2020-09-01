@@ -665,7 +665,7 @@ http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 http://103.205.133.19/hls/ten2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Sports",Sony Ten 2 HD (3)
-http://103.84.253.5/live/fastfeed1004/index.m3u8
+http://172.20.1.1:8081/live/ten2hd/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD (1)
@@ -673,6 +673,9 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD (2)
 http://175.41.46.16:8081/hls/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD (2)
+http://172.20.1.1:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
