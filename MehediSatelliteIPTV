@@ -18,14 +18,23 @@ https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/65.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/54.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
@@ -41,6 +50,9 @@ http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/56.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
@@ -76,6 +88,9 @@ http://45.249.187.238:8081/hls/live5.m3u8
 http://172.20.1.1:8081/live/gazi-bd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/59.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
 http://45.249.187.238:8081/hls/new16.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://tv.bdtype.com/uploads/tv_image/ananda-tv.png",Ananda TV
@@ -97,7 +112,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla HD
-
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/66.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BANGLA ENT.",Sony Aath
 http://ccn.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
@@ -134,6 +149,9 @@ https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/67.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="HINDI ENT.",STAR BHARAT
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
@@ -166,13 +184,13 @@ https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.",COLORS HD
-
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/68.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.",COLORS RISHTEY
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
-http://45.249.187.238:8081/hls/tsl-6.m3u8
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/74.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
 http://103.205.133.14/hls/andtv.m3u8
@@ -188,6 +206,9 @@ https://edge01.iptv.digijadoo.net/live/hum_masala/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0kVzKa6.jpg" group-title="HINDI ENT.", Ary Digital Asia
 https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+
+#EXTINF: -1 group-title="HINDI ENT.",ZEE Cafe
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/69.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
@@ -370,8 +391,14 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="MUSIC",Dhoom
 https://itpolly.iptv.digijadoo.net/live/dhoom_music/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="MUSIC",Dhoom
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/57.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/58.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
@@ -461,6 +488,9 @@ https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",,Nick JR.
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",,Nick JR.
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/55.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",Nick HD+
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
@@ -702,8 +732,8 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="Sports", Willow Cricket
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/70.m3u8
 
-#EXTINF:-1,group-title="Sports", Sky Cricket
-
+#EXTINF:-1,group-title="Sports", Sky Sports Cricket
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/71.m3u8
 
 #EXTINF:-1,group-title="Sports", SkySports Main
 
