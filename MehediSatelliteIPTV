@@ -593,6 +593,7 @@ https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",TITAS TV
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Fq3x25a.png" group-title="Sports",Star Sports 1 Hindi
 
@@ -670,7 +671,7 @@ https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
 http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN
-http://172.20.1.1:8081/live/espnhd/chunks.m3u8
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/23.m3u8
 
 #EXTINF:-1 group-title="Sports",D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -695,7 +696,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,group-title="Sports", Willow Cricket
-
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/70.m3u8
 
 #EXTINF:-1,group-title="Sports", Sky Cricket
 
@@ -712,10 +713,10 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Sports",TENIS HD
 http://203.150.107.30:8081/tested2iptv/core3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png" group-title="Sports",Olympic Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png" group-title="Sports",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Olympic Channel 2" tvg-logo="https://www.hedex.tv/uploads/images/clip_561_1589379485_poster.png" group-title="Sports",Olympic Channel 2
+#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_561_1589379485_poster.png" group-title="Sports",Olympic Channel 2
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
