@@ -266,7 +266,7 @@ http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIES",Sony Max HD
-http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+
 
 #EXTINF:-1 group-title="HINDI MOVIES",Sony Max 2
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/37.m3u8
@@ -311,11 +311,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 group-title="HINDI MOVIES",UTV Action FHD
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 
-#EXTINF:0 group-title="HINDI MOVIES",Bflix
-http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
-
 #EXTINF:0 group-title="HINDI MOVIES",Color Cineplex HD
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/3RKYyYI.png"group-title="HINDI MOVIES",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
@@ -348,7 +344,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/71.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH MOVIES",Romedy Now
-http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
@@ -632,7 +628,7 @@ https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/7.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/11.m3u8
@@ -845,12 +841,6 @@ http://212.47.252.54/hls/stream.m3u8
 
 #EXTINF:0 group-title="Sports",Ad Sports 1
 http://172.20.1.1:8081/live/ad1/chunks.m3u8
-
-#EXTINF:0 group-title="Sports",Ad Sports 2
-http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
-
-#EXTINF:0 group-title="Sports",Ad Sports 3
-http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 
 #EXTINF:0 group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
