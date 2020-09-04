@@ -85,7 +85,7 @@ https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
-http://103.214.202.218:8081/live/deepto/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV FHD
 http://45.249.187.238:8081/hls/live5.m3u8
@@ -103,7 +103,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/59.m3u8
 http://45.249.187.238:8081/hls/new16.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://tv.bdtype.com/uploads/tv_image/ananda-tv.png",Ananda TV
-https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8
+
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://tv.bdtype.com/uploads/tv_image/ananda-tv.png",Ananda TV
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/16.m3u8
@@ -112,13 +112,13 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/16.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/32.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
-https://itpolly.iptv.digijadoo.net/live/aakash_aath/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
@@ -278,10 +278,10 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
-https://itpolly.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
 http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
@@ -762,7 +762,7 @@ http://otv.ftpbd.net/streams/106/index.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/24.m3u8
 
 #EXTINF:-1 group-title="Sports", DD SPORTS 
-https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="Sports",ESPN
 
@@ -771,7 +771,7 @@ https://itpolly.iptv.digijadoo.net/live/dd_sports/playlist.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/23.m3u8
 
 #EXTINF:-1 group-title="Sports",D sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
 
@@ -837,7 +837,7 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://212.47.252.54/hls/stream.m3u8
 
 #EXTINF:0 group-title="Sports",Ad Sports 1
-http://172.20.1.1:8081/live/ad1/chunks.m3u8
+
 
 #EXTINF:0 group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?
