@@ -5,6 +5,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/53.m3u8
 http://103.205.133.14/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
+http://tv.dflix.live:8082/13/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA", BTV CHATTOGRAM
 
