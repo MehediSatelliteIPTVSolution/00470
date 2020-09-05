@@ -42,7 +42,7 @@ http://45.249.187.238:8081/hls/live1.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-
+http://103.135.208.14/live/ibox/bd/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://45.249.187.238:8081/hls/new6.m3u8
@@ -54,7 +54,7 @@ http://45.249.187.238:8081/hls/new6.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-
+http://103.135.208.14/live/ibox/bd/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/56.m3u8
