@@ -309,6 +309,8 @@ http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="HINDI MOVIES",ZEE BOLLYWOOD
 
+#EXTINF:0 group-title="HINDI MOVIES",Wow Cinema 
+http://103.205.133.19/hls/wowcinema.m3u8
 
 #EXTINF:0 group-title="HINDI MOVIES",UTV Action FHD
 http://45.249.187.238:8081/hls/tsl-7.m3u8
