@@ -277,7 +277,10 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/37.m3u8
 http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold
+http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
+http://robi.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
