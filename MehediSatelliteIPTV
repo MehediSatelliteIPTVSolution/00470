@@ -657,7 +657,7 @@ http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 http://45.249.187.238:8081/hls/live4.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eIDDCKU.png" group-title="NEWS",Euro News
-http://45.126.83.51/qwr9ew/s/s15/index.m3u8
+http://robi.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -678,7 +678,7 @@ http://robi.iptv.digijadoo.net/live/dw/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="NEWS",CNN
-
+http://robi.iptv.digijadoo.net/live/cnn/chunks.m3u8
 
 
 
