@@ -308,9 +308,6 @@ http://103.205.133.19/hls/wowcinema.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
-http://45.249.187.238:8081/hls/tsl-8.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
