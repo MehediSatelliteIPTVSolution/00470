@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA",BTV
 http://103.205.133.14/hls/btv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
 
 
@@ -10,13 +13,13 @@ http://103.205.133.14/hls/btv.m3u8
 
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/10.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
 http://45.249.187.238:8081/hls/new17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 http://45.249.187.238:8081/hls/live7.m3u8
@@ -25,16 +28,16 @@ http://45.249.187.238:8081/hls/live7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA",EKUSHEY TV HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA",NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 http://45.249.187.238:8081/hls/live1.m3u8
@@ -46,7 +49,7 @@ http://45.249.187.238:8081/hls/live1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-http://103.135.208.14/live/ibox/bd/25.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://45.249.187.238:8081/hls/new6.m3u8
@@ -54,13 +57,13 @@ http://45.249.187.238:8081/hls/new6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA",DESH TV HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-http://103.135.208.14/live/ibox/bd/28.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",BIJOY TV HD
 
@@ -77,16 +80,16 @@ http://103.135.208.14/live/ibox/bd/28.m3u8
 http://45.249.187.238:8081/hls/new4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
 http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
 http://45.249.187.238:8081/hls/new22.m3u8
@@ -95,13 +98,13 @@ http://45.249.187.238:8081/hls/new22.m3u8
 http://45.249.187.238:8081/hls/live5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV FHD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
 
 #EXTINF:0 group-title="BANGLA",Bangla TV
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/3.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
 
@@ -116,13 +119,13 @@ http://45.249.187.238:8081/hls/new16.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla SD
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="BANGLA ENT.",Zee Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA ENT.",Colors Bangla
 
@@ -599,28 +602,28 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 http://45.249.187.238:8081/hls/live6.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
-
-
-#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
 
+
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
 http://45.249.187.238:8081/hls/hdmi4.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/12.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV FHD
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV FHD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
-
+http://iptv.kitv.live:1935/live/Shari/MTV-P/13.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
 http://45.249.187.238:8081/hls/live2.m3u8
