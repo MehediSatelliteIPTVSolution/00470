@@ -532,16 +532,16 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 
 
 #EXTINF:0 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Nick Sonic Bangla
-
+http://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",,Nick JR.
-
+http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",,Nick JR.
 http://103.135.208.14/live/ibox/bd/85.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",Nick HD+
-
+http://robi.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",Mr Bean Show
 
