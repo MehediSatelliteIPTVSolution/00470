@@ -432,10 +432,12 @@ https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=14186771
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
-
+http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 
+#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
+http://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="MUSIC",Sangeet Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
