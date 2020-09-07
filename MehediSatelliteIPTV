@@ -546,7 +546,7 @@ http://robi.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids",Mr Bean Show
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Kids",Cheebies Asia
-
+http://robi.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
