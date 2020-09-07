@@ -786,17 +786,17 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 group-title="Sports" GEO Sports
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="Sports", Willow Cricket
+#EXTINF:-1,group-title="Sports",Arena Sports 1 
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/898
 
+#EXTINF:-1,group-title="Sports", Arena Sports 2
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897
 
-#EXTINF:-1,group-title="Sports", Sky Sports Cricket
+#EXTINF:-1,group-title="Sports", Arena Sports 3 
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896
 
-
-#EXTINF:-1,group-title="Sports", SkySports Main
-
-
-#EXTINF:-1,group-title="Sports", Sky Football
-
+#EXTINF:-1,group-title="Sports", Arena Sports 4 
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896
 
 #EXTINF:-1,group-title="Sports", Sky Premier
 
@@ -812,6 +812,12 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x8JJ8X.png" group-title="Sports", Euro Sports 
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg"group-title="Sports",FOX Sports
 
