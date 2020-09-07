@@ -324,7 +324,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
-
+http://robi.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
 http://103.135.208.14/live/ibox/bd/71.m3u8
