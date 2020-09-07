@@ -278,22 +278,10 @@ http://robi.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold HD
-
-
-#EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
-
-
-#EXTINF:-1 group-title="HINDI MOVIES",Star Gold Select HD
-
+http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema
-
+http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
