@@ -218,7 +218,7 @@ http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/74.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
 http://103.205.133.14/hls/andtv.m3u8
