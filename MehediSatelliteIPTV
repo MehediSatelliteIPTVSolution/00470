@@ -245,8 +245,8 @@ http://45.249.187.238:8081/hls/tsl-2.m3u8?@IPTVSoltuion
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0kVzKa6.jpg" group-title="HINDI ENT.", Ary Digital Asia
 
-
-#EXTINF: -1 group-title="HINDI ENT.",ZEE Cafe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWbFQMS.jpg" group-title="HINDI ENT.",Ary Family 
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
@@ -299,6 +299,36 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD
 http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8?@IPTVSoltuion
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI MOVIES",Zee Cinema
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemausa/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI MOVIES",Zee Cinema UK
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemauk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI MOVIES",Zee Cinema ME
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecinemame/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI MOVIES",Zee Cinema HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI MOVIES",Zee Bollywood
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI MOVIES",Zee Action
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIES",Zee ANMOL CINEMA
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8 
+
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title="HINDI MOVIES",Zee Classic
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI MOVIES",And Picture
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HINDI MOVIES",And Picture HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="HINDI MOVIES",ZEE BOLLYWOOD
 
@@ -407,7 +437,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="ENGLISH ENT.",Arirang HD
 
-#EXTINF:0 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="ENGLISH ENT.",Warner TV HD
+#EXTINF:-0 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="ENGLISH ENT.",Warner TV HD
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="ENGLISH ENT.",TV5 Monde
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png" group-title="ENGLISH ENT.",Fox CRIME
 http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
