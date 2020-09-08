@@ -372,6 +372,9 @@ https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@IPTVSolu
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8?@IPTVSolution
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
@@ -379,7 +382,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts?@IPTVSoltuion
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH MOVIES",Romedy Now
-
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8?@IPTVSoltuion
@@ -427,7 +430,7 @@ http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8?@IPTVSoltuion
 http://51.52.156.22:8888/http/009
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH ENT.",Sony Pix
-http://103.205.133.19/hls/sonypix.m3u8?@IPTVSoltuion
+http://iptv.kitv.live:1935/live/Shari/MTV-P/39.m3u8?@IPTVSoltuion
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ENGLISH ENT.",Sony Pix
 
