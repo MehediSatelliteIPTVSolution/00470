@@ -305,6 +305,18 @@ http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8?@IPTVSoltuion
 #EXTINF:0 group-title="HINDI MOVIES",Wow Cinema 
 http://103.205.133.19/hls/wowcinema.m3u8?@IPTVSoltuion
 
+EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="HINDI ENT.",Zee Anmol
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeeanmol/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20171016/c21a81ee430978be31e22ae5c286c47d.jpg" group-title="HINDI ENT.",Zee Smile
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/smileusa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="HINDI ENT.",Big Magic
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigmagic/index.m3u8
+
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title="HINDI. ENT.",Big Ganga
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigganga/index.m3u8
+
 #EXTINF:0 group-title="HINDI MOVIES",UTV Action FHD
 
 #EXTINF:0 group-title="HINDI MOVIES",Color Cineplex HD
@@ -324,10 +336,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts?@IPTVSoltuion
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now HD
-http://103.135.208.14/live/ibox/bd/71.m3u8?@IPTVSoltuion
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="ENGLISH MOVIES",Romedy Now
 
