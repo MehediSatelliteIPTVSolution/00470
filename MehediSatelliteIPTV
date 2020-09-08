@@ -616,6 +616,36 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Hindi
 http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery SD [HINDI]
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD [ENGLISH]
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD [RUSSIA]
+http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
+
+#EXTINF:-1 group-title="INFOTAINMENT & LIFESTYLE" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery ASIA
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science [HINDI]
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science [ENGLISH]
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science [RUSSIA]
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/kfvgxtjsp5o6yw2/id.png" group-title="Documentary",Discovery ID
+https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Documentary",Discovery Turbo
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
+
+
+
 #EXTINF:0 group-title="Documentary",Discovery Science 
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_6.m3u8
 
