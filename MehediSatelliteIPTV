@@ -39,6 +39,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
@@ -62,7 +63,7 @@ http://45.249.187.238:8081/hls/new6.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8?@amarnettv.live
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="BANGLA",Maasranga HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
@@ -117,8 +118,13 @@ http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://tv.bdtype.com/uploads/tv_image/ananda-tv.png",Ananda TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
+#EXTINF:0 group-title="BANGLA",Enter 10
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
+http://103.205.133.19/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
@@ -353,7 +359,16 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 http://220.158.149.28:8180/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO Family 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8?token=Zalogi
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO Goesia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8?token=Zalogi
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8?token=Zalogi
 
 #EXTINF:0 group-title="ENGLISH MOVIES",Hollywood HD 
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
@@ -616,6 +631,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
 http://45.249.187.238:8081/hls/hdmi4.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="NEWS",Independent FHD
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/12.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV FHD
@@ -625,13 +641,14 @@ http://45.249.187.238:8081/hls/hdmi2.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/13.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
 http://45.249.187.238:8081/hls/live2.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24 FHD
-
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24 FHD
 http://45.249.187.238:8081/hls/live4.m3u8
